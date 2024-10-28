@@ -12,7 +12,7 @@ A polymorphic interface between the operating system kernel and the various file
 Userspace address space management, running user-level code, servicing system calls, and basically everything else needed to combine all of the previous componenets into a fully functioning operating system. This includes virtual memory maps, handling page faults, memory management via anonymous objects and shadow objects, and system calls (in particular, the fork syscall).
   
 ## Important Notes
-This is a placeholder repo with no code to respect USC's Academic Code. If you are a potential employer and would like to look at the code, please send me an [email](amylee.lyq@gmail.com).
+This is a placeholder repo with no code to respect USC's Academic Code. If you are a potential employer and would like to look at the code, please [email me](mailto:amylee.lyq@gmail.com).
 
  Please also be noted that this is an ongoing project. As of Oct 27 of 2024, phase 1 - PROCS has been finished. VFS and VM will be finished in the coming 2 months.
 
