@@ -17,4 +17,4 @@ This is a placeholder repo with no code to respect USC's Academic Code. If you a
  Please also be noted that this is an ongoing project. As of Oct 27 of 2024, phase 1 - PROCS has been finished. VFS and VM will be finished in the coming 2 months.
 
 ## Related
-Read more about the [course](https://merlot.usc.edu/cs402-f24/) and the [kernel projects](https://merlot.usc.edu/cs402-f24/projects/kernel/) here.
+Read more about the [course](https://merlot.usc.edu/cs402-f24/) and the [kernel projects](https://merlot.usc.edu/cs402-f24/projects/kernel/) here (username and password may apply since this is internal teaching material at USC).
