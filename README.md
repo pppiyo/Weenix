@@ -14,7 +14,7 @@ Userspace address space management, running user-level code, servicing system ca
 ## Important Notes
 This is a placeholder repo with no code to respect USC's Academic Code. If you are a potential employer and would like to look at the code, please [email me](mailto:amylee.lyq@gmail.com).
 
- Please also be noted that this is an ongoing project. As of Oct 27 of 2024, phase 1 - PROCS has been finished. VFS and VM will be finished in the coming 2 months.
+ Please also be noted that this is an ongoing project. As of Oct 26, 2024, phase 1 (PROCS) is complete, with VFS and VM expected to finish in the next two months.
 
 ## Related
 Read more about the [course](https://merlot.usc.edu/cs402-f24/) and the [kernel projects](https://merlot.usc.edu/cs402-f24/projects/kernel/) here (username and password may apply since this is internal teaching material at USC).
