@@ -9,7 +9,7 @@ Threads, processes, and synchronization primitives.
 A polymorphic interface between the operating system kernel and the various file systems (such as S5FS and device drivers).
 
 ### Virtual Memory (VM)
-Userspace address space management, running user-level code, servicing system calls, and basically everything else needed to combine all of the previous componenets into a fully functioning operating system. This includes virtual memory maps, handling page faults, memory management via anonymous objects and shadow objects, and system calls (in particular, the fork syscall).
+User space address space management, running user-level code, servicing system calls, and basically everything else needed to combine all of the previous componenets into a fully functioning operating system. This includes virtual memory maps, handling page faults, memory management via anonymous objects and shadow objects, and system calls (in particular, the fork syscall).
   
 ## Important Notes
 This repository serves as a placeholder in adherence to USC's Academic Code. If you are a potential employer interested in reviewing the code, please feel free to reach out via email provided in my resume.
