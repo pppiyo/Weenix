@@ -1,5 +1,5 @@
 # Weenix
-A full operating system kernel, based on Unix, built as a semester-long project in CSCI 402 (Operating Systems) at USC.
+A full operating system kernel based on Unix.
 
 ## Content
 ### Kernel Threads (PROCS)
