@@ -13,5 +13,3 @@ User space address space management, running user-level code, servicing system c
   
 ## Important Notes
 This repository serves as a placeholder in adherence to USC's Academic Code. If you are a potential employer interested in reviewing the code, please feel free to reach out via email provided in my resume.
-
-Please also be noted that this is an ongoing project. As of Oct 26, 2024, phase 1 (PROCS) is complete, with VFS and VM expected to finish in the next two months.
